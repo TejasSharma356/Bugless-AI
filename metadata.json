@@ -1,0 +1,5 @@
+{
+  "name": "Bugless AI Code Reviewer",
+  "description": "An AI-powered code review web application that uses the Gemini API to analyze code for logic, performance, and readability, providing a detailed report with issues, suggestions, and a quality score.",
+  "requestFramePermissions": []
+}
